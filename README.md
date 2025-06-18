@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Chavan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<p align="center"> <img src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669e8977c037117c368e6cfc_Analytics.gif"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchavan9709&label=Profile%20views&color=0e75b6&style=flat" alt="yashchavan9709" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashchavan9709" alt="yashchavan9709" /></a> </p>
